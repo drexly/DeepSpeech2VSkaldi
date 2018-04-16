@@ -11,4 +11,4 @@ AI Research Engineering on Korean Speech to Text(STT) Engines via Mozilla Deepsp
 
 Based on 17GiB of Korean WAVs and TXTs
  
-![training](tensorboard.png)
+![training](tensorboard.png?raw=true "Full Data Training")
