@@ -1,7 +1,7 @@
 # DeepSpeech2VSkaldi
 AI Research Engineering on Korean Speech to Text(STT) Engines via Baidu Research's Deepspeech2 and Kaldi ASR
 
-## Comming soon with the result of
+## Coming soon with the result of
 
 1. Monophone+Triphone1,2,3+ Deep Neural Network Training and Decoding on Kaldi ASR == Done
 
